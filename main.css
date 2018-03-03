@@ -1,0 +1,28 @@
+.main{
+ 	margin-top: 70px;
+}
+
+h1.title {
+	font-size: 30px;
+	font-family: 'Passion One', cursive;
+	font-weight: 400;
+}
+
+hr{
+	width: inherit;
+	color: #fff;
+}
+div.container {
+    position: fixed;
+    bottom: auto;
+    right: 500px;
+    width: 300px;
+}
+img {
+    border: 0;
+    position: fixed;
+    top: 10px;
+}
+.mainlogin{
+  width: 500px;
+}
